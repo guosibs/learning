@@ -2,6 +2,8 @@
 This is a sandbox for Alan and Julia to play around with machine learning
 (in Python for now).
 
+This assumes a macOS environment.
+
 # Setup
 Make sure you have the following installed on your system:
 * Python 2.7
@@ -32,4 +34,9 @@ From now on, we will assume you are doing any development in the virtualenv.
 Install Python dependencies:
 ```
 pip install -r requirements.txt
+```
+This includes Google's TensorFlow package.
+To validate the installation, run the validation script.
+```
+python src/validate.py
 ```
