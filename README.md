@@ -1,4 +1,6 @@
-# learning
+# Alan and Julia's learning playground
+This is a sandbox for Alan and Julia to play around with machine learning
+(in Python for now).
 
 # Setup
 Make sure you have the following installed on your system:
